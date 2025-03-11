@@ -6,8 +6,6 @@ Este projeto é um gerador de cartelas de rifa em PDF, desenvolvido em Python ut
 
 - Gera cartelas de rifa em PDF.
 - Personaliza o cabeçalho com o nome do evento, data e ID da cartela.
-- Destaca informações importantes, como o nome do evento e o ID da cartela, em vermelho.
-- Permite adicionar uma logo ao cabeçalho.
 - Organiza os números da rifa em uma tabela com espaços para nome e telefone dos participantes.
 
 ## Como usar
